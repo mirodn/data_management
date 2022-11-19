@@ -1,0 +1,361 @@
+[{
+  "_id": {
+    "$oid": "635bcf667e6c5b0239d000b3"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 4642,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bcf7fa97cef16b63b5548"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 561,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bd1dd2c8c8d0ca4c843c7"
+  },
+  "name": "Miro ",
+  "punkte": 1,
+  "timer": 8152,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bd24f29490121b18f8548"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 2415,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bd4853f579f09d1342743"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 7657,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bd494282fa046f280304b"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 3798,
+  "kategorie": "Fett"
+},{
+  "_id": {
+    "$oid": "635bd6067e55414bda943b47"
+  },
+  "name": "Miro",
+  "punkte": 4,
+  "timer": 36102,
+  "kategorie": "Protein"
+},{
+  "_id": {
+    "$oid": "635be5408809c847244bccf8"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 8554,
+  "kategorie": "Fett"
+},{
+  "_id": {
+    "$oid": "635be58f41eefd716f37567c"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 8899,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635be9245bb181561844b5a7"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 5406,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635be93c2717f65bc9837775"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 4846,
+  "kategorie": "Fett"
+},{
+  "_id": {
+    "$oid": "635be94fe347394e9b63f38b"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 4655,
+  "kategorie": "Protein"
+},{
+  "_id": {
+    "$oid": "635bea734c898a0e16641f4f"
+  },
+  "name": "1",
+  "punkte": 0,
+  "timer": 7005,
+  "kategorie": "Protein"
+},{
+  "_id": {
+    "$oid": "635bea89320b552fd0a60b40"
+  },
+  "name": "Miro",
+  "punkte": 0,
+  "timer": 5108,
+  "kategorie": "Eisen"
+},{
+  "_id": {
+    "$oid": "635beb7e8585a84d702651e7"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 13076,
+  "kategorie": "Protein"
+},{
+  "_id": {
+    "$oid": "635bece2ff51b07f18f5fce2"
+  },
+  "name": "Miro",
+  "punkte": 5,
+  "timer": 18826,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bed0fa5132638f088974a"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 9834,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bed89f951ab13221b8005"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 3449,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bee68ed07c443db83cf7c"
+  },
+  "name": "Marko",
+  "punkte": 5,
+  "timer": 13090,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bef29382f3712807c7440"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 2770,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635befd72bde367ebc09e10a"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 4359,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bf0522e0112438178f623"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 3850,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bf171927bbb526a83d1d9"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 6275,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bf456369b2e1852aeaabc"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 6764,
+  "kategorie": "Salz"
+},{
+  "_id": {
+    "$oid": "635bf465dfc76326f330b62e"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 5737,
+  "kategorie": "Eisen"
+},{
+  "_id": {
+    "$oid": "635bf4738b71cb50accc0472"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 5396,
+  "kategorie": "Salz"
+},{
+  "_id": {
+    "$oid": "635bf480abe3ba756083e9ce"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 5984,
+  "kategorie": "Eisen"
+},{
+  "_id": {
+    "$oid": "635bf495253d7f1f197913f9"
+  },
+  "name": "Miro",
+  "punkte": 0,
+  "timer": 3275,
+  "kategorie": "Salz"
+},{
+  "_id": {
+    "$oid": "635bf64549dabc075f65dded"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 5598,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bf66d2581d000e8ee701d"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 3492,
+  "kategorie": "Fett"
+},{
+  "_id": {
+    "$oid": "635bf6b04fd9d963f97e5353"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 5020,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635bf8fe3dd18f0843975e0d"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 3416,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635d0acd2828896cef85de5d"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 12301,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "635d1061c649875fde1b3fff"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 17025,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "63612862374dbd063dc52261"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 8778,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "6362b15a946a125c699fa557"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 10681,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "6362b46894009662ffb8632e"
+  },
+  "name": "Miro",
+  "punkte": 4,
+  "timer": 11621,
+  "kategorie": "Salz"
+},{
+  "_id": {
+    "$oid": "6362b6cd144de531c45a3c57"
+  },
+  "name": "Miro",
+  "punkte": 0,
+  "timer": 8612,
+  "kategorie": "Salz"
+},{
+  "_id": {
+    "$oid": "6362b6ee7fbd7052eb673ce9"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 23176,
+  "kategorie": "Protein"
+},{
+  "_id": {
+    "$oid": "6362b7b31f30c12bd8d69919"
+  },
+  "name": "Miro",
+  "punkte": 1,
+  "timer": 6811,
+  "kategorie": "Salz"
+},{
+  "_id": {
+    "$oid": "6362b88c1778043c34803e57"
+  },
+  "name": "Miro",
+  "punkte": 3,
+  "timer": 11291,
+  "kategorie": "Salz"
+},{
+  "_id": {
+    "$oid": "6362b9a7c22a8a7ff6bd31e1"
+  },
+  "name": "Miro",
+  "punkte": 4,
+  "timer": 24046,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "63640413155d7662e44c1742"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 18780,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "636669a48fdce6049b950a5b"
+  },
+  "name": "shqiponje",
+  "punkte": 2,
+  "timer": 193452,
+  "kategorie": "Kalorien"
+},{
+  "_id": {
+    "$oid": "63682450ec96ec340faed196"
+  },
+  "name": "Miro",
+  "punkte": 2,
+  "timer": 26818,
+  "kategorie": "Kalorien"
+}]

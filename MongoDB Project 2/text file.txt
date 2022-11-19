@@ -1,0 +1,68 @@
+Willkommen im FoodQuiz. Bitte gib deinen Namen ein.
+> Miro
+
+ Wähle eine Kategorie
+1) Kalorien
+2) Fett
+3) Protein
+4) Salz
+5) Eisen
+1
+Frage 1 von 5: Welches Lebensmittel hat den höchsten Kalorienanteil?
+1: Bouillon, Fleisch, zubereitet
+2: Tomate, geschält (Konserve)
+3: Bouillon, Geflügel, zubereitet
+> 1
+Leider falsch. 
+Die Produkte enthalten pro 100g essbarer Anteil die folgende Menge Fett: 
+1: 5
+2: 20
+3: 5
+Frage 2 von 5: Welches Lebensmittel hat den höchsten Kalorienanteil?
+1: Kartoffelstock, zubereitet (mit Vollmilch und Butter)
+2: Kalb, Brust, roh
+3: Morchel, gedünstet (ohne Zugabe von Fett und Salz)
+> 2
+Korrekt. Die Produkte enthalten pro 100g essbarer Anteil die folgende Menge Fett: 
+1: 90
+2: 204
+3: 34
+Frage 3 von 5: Welches Lebensmittel hat den höchsten Kalorienanteil?
+1: Wein weiss, gespritzt, sauer
+2: Ahornsirup
+3: Olivenöl
+> 2
+Leider falsch. 
+Die Produkte enthalten pro 100g essbarer Anteil die folgende Menge Fett: 
+1: 36
+2: 358
+3: 810
+Frage 4 von 5: Welches Lebensmittel hat den höchsten Kalorienanteil?
+1: Birchermüesli, zubereitet (ungezuckert)
+2: Champignon, gedünstet (ohne Zugabe von Fett und Salz)
+3: Baumnuss
+> 3
+Korrekt. Die Produkte enthalten pro 100g essbarer Anteil die folgende Menge Fett: 
+1: 87
+2: 29
+3: 709
+Frage 5 von 5: Welches Lebensmittel hat den höchsten Kalorienanteil?
+1: Brombeerkuchen, hausgemacht (mit süssem Mürbeteig)
+2: Schümliguetzli
+3: Surimi
+> 1
+Leider falsch. 
+Die Produkte enthalten pro 100g essbarer Anteil die folgende Menge Fett: 
+1: 221
+2: 444
+3: 125
+Miro, du hast 2 Punkte erreicht und 26818 ms benötigt.
+
+
+AcknowledgedInsertOneResult{insertedId=BsonObjectId{value=63682450ec96ec340faed196}}
+
+Bestenliste:
+
+Marko: (5) Punkte. Zeit: 13090 (Kategorie Kalorien)
+Miro: (5) Punkte. Zeit: 18826 (Kategorie Kalorien)
+Miro: (4) Punkte. Zeit: 11621 (Kategorie Salz)
